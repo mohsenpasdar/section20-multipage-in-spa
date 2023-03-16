@@ -5,7 +5,7 @@ const Home = () => {
     return (
         <div>
             <h1>My Homepage</h1>
-            <p>Go to <Link to='/products'>list of products</Link>.</p>
+            <p>Go to <Link to='products'>list of products</Link>.</p>
         </div>
     );
 };
